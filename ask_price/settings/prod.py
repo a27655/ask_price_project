@@ -24,7 +24,7 @@ CORS_URLS_REGEX = r'^/api/manage/.*$'
 
 LOGGING_PREFIX = 'prod'
 
-ALLOWED_HOSTS = ['quot.touchealth.com.cn',]
+ALLOWED_HOSTS = ['tfboy.cc',]
 
 # 日志配置
 LOGGING = {
